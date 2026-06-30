@@ -1,0 +1,6 @@
+.env
+warehouse/
+logs/*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
